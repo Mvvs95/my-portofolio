@@ -1,16 +1,16 @@
 const personDetails = {
     personal: {
-      firstName: "Pulkit",
-      lastName: "Handa",
-      email: "pulkit.handa@ais.amity.edu",
+      firstName: "Maxime",
+      lastName: "ROSE",
+      email: "maxime.rose22@gmail.com",
       age: 15,
-      languages: "Hindi, English & French",
+      languages: "French, English",
       phone: "Will be Available soon 😉",
-      contactMail: "pulkit.handa2005@gmail.com",
-      address: "Haryana, India",
-      nationality: "Indian 🇮🇳",
+      contactMail: "maxime.rose22@gmail.com",
+      address: "Paris, France",
+      nationality: "French",
       freelance: "Will be Available soon 😉",
-      description: "I'm a Web Designer & Full Stack Developer who is focused on crafting user‑friendly products, I have the ability to build Discord bots, Telegram bots, Web apps and Websites. I am passionate about building excellent software that improves the lives of those around me."
+      description: "im a passionate web developer student eager to learn and create amazing web experiences. Always excited to take on new challenges and improve my skills in the ever-evolving world of web development."
     },
     professional: {
       yoe: 1,
@@ -43,7 +43,7 @@ const personDetails = {
       "vscode": 50,
       },
     social: {
-      github: "https://github.com/pulkithanda",
+      github: "https://github.com/Mvvs95",
       linkedin: "https://www.linkedin.com/in/pulkit-handa-2286721aa/",
       codepen: "https://codepen.io/pulkitchamp",
       telegram: "https://t.me/Pulkit_Champ"
