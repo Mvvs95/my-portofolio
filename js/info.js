@@ -5,7 +5,7 @@ const personDetails = {
       email: "maxime.rose22@gmail.com",
       age: 15,
       languages: "French, English",
-      phone: "Will be Available soon 😉",
+      phone: "+33 665377709",
       contactMail: "maxime.rose22@gmail.com",
       address: "Paris, France",
       nationality: "French",
