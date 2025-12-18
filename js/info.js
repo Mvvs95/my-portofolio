@@ -3,20 +3,20 @@ const personDetails = {
       firstName: "Maxime",
       lastName: "ROSE",
       email: "maxime.rose22@gmail.com",
-      age: 15,
+      age: 17,
       languages: "French, English",
       phone: "+33 665377709",
       contactMail: "maxime.rose22@gmail.com",
       address: "Paris, France",
       nationality: "French",
       freelance: "Will be Available soon 😉",
-      description: "im a passionate web developer student eager to learn and create amazing web experiences. Always excited to take on new challenges and improve my skills in the ever-evolving world of web development."
+      description: "Je suis un étudiant passionné en développement web, désireux d'apprendre et de créer des expériences web exceptionnelles. Je suis toujours enthousiaste à l'idée de relever de nouveaux défis et d'améliorer mes compétences dans le monde en constante évolution du développement web."
     },
     professional: {
-      yoe: 1,
+      yoe: 2,
       completedProjects: 16,
-      happyCustomers: 2,
-      awardsWon: 3,
+      happyCustomers: 4,
+      awardsWon: 0,
     },
     academic: {
       college: {
@@ -25,28 +25,28 @@ const personDetails = {
         course: "",
       },
       school: {
-        name: "Amity International School",
-        duration: "2021 - Present",
-        course: "High School"
+        name: "EDEN SCHOOL(ECOLE DU DIGITAL ET DU NUMERIQUE)",
+        duration: "2024-2027",
+        course: "Formation"
       }
     },
     skills: {
       // key: skill name
       // value: skill percentage
       "html": 95,
-      "javascript": 10,
-      "css": 70,
+      "javascript": 80,
+      "css": 90,
       "nodejs": 10,
       "wordpress": 85,
-      "python": 10,
+      "python": 20,
       "gitAndGithub": 50,
-      "vscode": 50,
+      "vscode": 80,
       },
     social: {
       github: "https://github.com/Mvvs95",
-      linkedin: "https://www.linkedin.com/in/pulkit-handa-2286721aa/",
-      codepen: "https://codepen.io/pulkitchamp",
-      telegram: "https://t.me/Pulkit_Champ"
+      linkedin: "https://www.linkedin.com/in/maxime-rose-3250833a1/",
+      codepen: "",
+      telegram: ""
     }
   };
 
