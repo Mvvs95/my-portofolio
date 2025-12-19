@@ -8,7 +8,7 @@ const personDetails = {
       phone: "+33 665377709",
       contactMail: "maxime.rose22@gmail.com",
       address: "Paris, France",
-      nationality: "French",
+      nationality: "Francaise",
       freelance: "Will be Available soon 😉",
       description: "Je suis un étudiant passionné en développement web, désireux d'apprendre et de créer des expériences web exceptionnelles. Je suis toujours enthousiaste à l'idée de relever de nouveaux défis et d'améliorer mes compétences dans le monde en constante évolution du développement web."
     },
@@ -40,7 +40,8 @@ const personDetails = {
       "wordpress": 85,
       "python": 20,
       "gitAndGithub": 50,
-      "vscode": 80,
+      "vscode": 100, 
+      // PHP
       },
     social: {
       github: "https://github.com/Mvvs95",
